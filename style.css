@@ -10,8 +10,8 @@ body{
 .header , .footer {
 
     background-color: #142041;
-    color: aliceblue;
-    padding: 0.5rem 2em;
+    color: #f9faf8;
+    padding: 0.7rem 2em;
     display: flex;
 }
 
@@ -19,12 +19,16 @@ body{
 
     justify-content:space-between ;
     align-items: center;
+    font-size: 24px;
+    font
 }
 
 .footer {
 justify-content: center;
 align-items: center;
+padding: 0.7rem 0em;
 width: 100vw;
+
 }
 .nav ul {
     list-style: none;
@@ -72,6 +76,87 @@ width: 100vw;
 
     height : auto;
     width :25vw;
-    border-radius: 7px;
+    border-radius: 12px;
     border : 2.5px solid srgb(16, 24, 34);
+}
+
+
+.cardSection {
+    background-color: blue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 1.5rem;
+}
+
+.cardHeading{
+    margin-bottom: 2rem;
+}
+.cards {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    margin-bottom: 5.5vh;
+    flex-wrap: wrap;
+}
+
+.card{
+    margin:0.2rem;
+    width: 200px;
+    height: 200px;
+    flex : 0 0 auto;
+    
+}
+
+.card img {
+    width : 100%;
+    border-radius: 15px;
+    border : 2px solid white;
+    height: 85%;
+}
+
+.cardText{
+    display: block;
+    text-align: center;
+}
+
+.card a {
+    text-decoration: none;
+    color: white;
+}
+
+.quoteSection {
+    background-color: cadetblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;    
+    padding: 10vh;;
+}
+
+
+.quoteMain{
+
+}
+
+.quoteAuthor{
+
+
+}
+
+
+.callToAction {
+
+    background-color:darkcyan;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding: 2.3rem;
+}
+
+.callToAction button {
+    padding : 0.5rem;
+    margin-top: 10px;
 }
