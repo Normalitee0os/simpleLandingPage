@@ -1,6 +1,7 @@
 # simpleLandingPage
 
 Credits :
+Icon : https://www.flaticon.com/free-icons/astronomer" - Astronomer icons created by Eucalyp - Flaticon  
 HeroImage : https://unsplash.com/photos/12GfPWscXeM - David Babayan
 Card Image 1: https://unsplash.com/photos/CPjkWSD0RM0 - Kevin Cohran
 Card Image 2: https://unsplash.com/photos/OgsVEzb6AEc -Luke stackpoole
