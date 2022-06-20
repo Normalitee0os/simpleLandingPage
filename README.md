@@ -1,5 +1,11 @@
 # simpleLandingPage
 
+Goal : A simple Landing Page completely made from scratch using only HTML and CSS.
+
+What I learnt from this : Learnt to create a beautiful layout using CSS flexbox and also learnt about other properties like Box-shadow property.
+
+---
+
 Credits :
 Icon : https://www.flaticon.com/free-icons/astronomer" - Astronomer icons created by Eucalyp - Flaticon  
 HeroImage : https://unsplash.com/photos/12GfPWscXeM - David Babayan
